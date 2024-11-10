@@ -30,3 +30,13 @@ label {
     margin-bottom: 8px;
     font-weight: bold;
 }
+
+input[type="date"] {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
