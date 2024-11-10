@@ -24,3 +24,9 @@ header h1 {
     margin-bottom: 20px;
     color: #333;
 }
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
